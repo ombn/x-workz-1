@@ -4,7 +4,7 @@ public class Types{
 		System.out.println("familyMembers");
 		
 		short populousCitiesInMaharashtra = 378;
-		System.out.println("populousCitiesInMaharashtra");
+		System.out.println(populousCitiesInMaharashtra);
 		
 		int  longestRoadWeCanDriveInMeters = 30577536;
 		System.out.println("longestRoadWeCanDriveInMeters");
